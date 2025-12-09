@@ -16,7 +16,7 @@ function App() {
       {/* Hero Section */}
       <section className="text-center mt-20 px-6">
         <h2 className="text-5xl font-bold mb-6">Transform Microbiome Data into Discovery</h2>
-        <p className="text-lg mb-8 max-w-xl mx-auto">
+        <p className="text-lg mb-8 max-w-5xl mx-auto">
           Real world shotgun metagenomics profiling platform.
           The Microbiome Foundry state-of-the-art informatics provides an unmatched resource for developing a better understanding of the molecular mechanisms of various microbiomes and helps researchers and biotech and biopharmaceutical 
           companies to derive unique insights to support commercial and product development objectives, target identification and other research initiatives.
