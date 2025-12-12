@@ -51,8 +51,8 @@ function App() {
 
       {/* About Section */}
       <section id="about" className="mt-32 text-center px-6 max-w-4xl mx-auto">
-        <h2 className="text-4xl font-bold mb-6">About the Microbiome Foundry</h2>
-        <p className="text-lg mb-8">
+        <h2 className="text-2xl font-bold mb-6">About the Microbiome Foundry</h2>
+        <p className="text-4xs mb-8">
           The Microbiome Foundry is a platform dedicated to provide comprehensive datasets of shotgun metagenomics curated datasets to make microbiome research faster, easier, and more insightful.
         </p>
       </section>
